@@ -1,6 +1,6 @@
 # This is the COVID Pass REDCap project and supporting External Modules
 
-COVID Pass is not a substitute for professional medical advice, diagnosis, or treatment. It is only for screening related to COVID-19.
+REDCap COVID Pass is not a substitute for professional medical advice, diagnosis, or treatment. It is only for screening related to COVID-19.
 
 This screening aid is based on recommendations from the Centers for Disease Control and Prevention, the Massachusetts Department of Public Health, and Partners HealthCare experts. Screening criteria in other states may be different.
 
@@ -12,7 +12,7 @@ Always consult a medical professional when needed.**
 The project contains
 
 ***Project Structure***
-- XML structure of the COVID Pass project (REDCap’s ODM file)
+- XML structure of the REDCap COVID Pass project (REDCap’s ODM file)
 You can (and probably should) modify the structure to suit your needs
 - A TXT file with the final survey message. This message has some HTML in it that the REDCap user interface usually strips some things, so you have to use the “Source Code” view in the text editor for that field
 
